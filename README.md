@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/0053-maximum-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2418-sort-the-people](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/2418-sort-the-people) |
 ## Two Pointers
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/2418-sort-the-people) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
