@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/0053-maximum-subarray) |
 | [0162-find-peak-element](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/0162-find-peak-element) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -61,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/0162-find-peak-element) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
