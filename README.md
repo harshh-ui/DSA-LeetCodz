@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -63,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/0162-find-peak-element) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/harshh-ui/DSA-LeetCodz/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
